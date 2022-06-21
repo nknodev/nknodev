@@ -11,6 +11,7 @@
  ![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin) 
  ![C#](https://img.shields.io/badge/csharp-090909?style=for-the-badge&logo=csharp) 
  ![Rust](https://img.shields.io/badge/rust-090909?style=for-the-badge&logo=rust) 
+ ![Mongo](https://img.shields.io/badge/mongodb-090909?style=for-the-badge&logo=mongodb) 
 
 
 
