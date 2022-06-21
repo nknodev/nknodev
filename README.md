@@ -8,7 +8,12 @@
  ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C) 
  ![PostresSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=blue) 
  ![Sequilize](https://img.shields.io/badge/Sequelize-090909?style=for-the-badge&logo=Sequelize&logoColor=blue) 
-  
+ ![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin) 
+ ![C#](https://img.shields.io/badge/csharp-090909?style=for-the-badge&logo=csharp) 
+ ![Rust](https://img.shields.io/badge/rust-090909?style=for-the-badge&logo=rust) 
+
+
+
  ### Frameworks:
 
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=green) 
